@@ -16,7 +16,7 @@ gem 'middleman-compass', '>= 4.0.0'
 
 
 
-gem "middleman-sprockets", "~> 4.0.0.rc"
+gem "middleman-sprockets", "~> 4.0.0.0"
 
 
 # gem 'rack-contrib'
